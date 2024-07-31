@@ -1,0 +1,16 @@
+{
+  "name": "pipe",
+  "version": "1.0.0",
+  "description": "Custom pipe Implementation",
+  "main": "MyPromise.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.4"
+  },
+  "keywords": [
+    "pipe"
+  ]
+}
