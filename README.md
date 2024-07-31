@@ -18,6 +18,7 @@ is the same as:
 ```
 const add1Runner = pipe(add1);
 const add2AndAdd1Runner = add1Runner.pipe(add2);
-// add1Runner.pipe creates a new context with a chaining function. see full explanation in the source code.
+// add1Runner.pipe creates a new context with a chaining function.
+Read the full explanation in the source code.
 add2AndAdd1Runner(1);
 ```
